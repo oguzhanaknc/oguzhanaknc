@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **oguzzhanakinci@gmail.com**
 
-- ⚡ Fun fact **I'm a jack-of-all-trades**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
