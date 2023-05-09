@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **mine graphics engine**
 
-- 🌱 I’m currently learning **DirectX**
+- 🌱 I’m currently learning **Vulkan**
 
 - 💬 Ask me about **C++ or Python**
 
